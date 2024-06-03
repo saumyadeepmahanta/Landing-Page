@@ -1,0 +1,51 @@
+{
+  "serviceOne": [
+    {
+      "img": "/images/icons/service-icon-01.svg",
+      "title": "Customizable",
+      "desc": "Create and modify rubrics easily, ensuring a custom tailored solution to specific needs across different industries."
+    },
+    {
+      "img": "/images/icons/service-icon-02.svg",
+      "title": "Integration",
+      "desc": "Seamlessly integrate with existing platforms such as LMS, CRM, ATS and more."
+    },
+    {
+      "img": "/images/icons/service-icon-03.svg",
+      "title": "Multi-Modal Input",
+      "desc": "Ability to handle various input types like; text, audio & video for broader applicability."
+    },
+    {
+      "img": "/images/icons/service-icon-01.svg",
+      "title": "Ask anything",
+      "desc": "Lets users quickly find answers to their questions without having to search through multiple sources."
+    },
+    {
+      "img": "/images/icons/service-icon-02.svg",
+      "title": "Real-Time Feedback",
+      "desc": "Instant feedback to facilitate immediate learning and improvement."
+    },
+    {
+      "img": "/images/icons/service-icon-03.svg",
+      "title": "Scalability",
+      "desc": " Effortlessly handle large volumes of assessments concurrently."
+    }
+  ],
+  "serviceTwo": [
+    {
+      "img": "/images/service/service-icon-01.png",
+      "title": "Reduces cost by upto 70%",
+      "desc": "No limitation on API keys you can generate or AI evaluators you can create."
+    },
+    {
+      "img": "/images/service/service-icon-02.png",
+      "title": "Pay for what you use",
+      "desc": "There is no setup fee, annual fees or any monthly subscription. You pay only for usage."
+    },
+    {
+      "img": "/images/service/service-icon-03.png",
+      "title": "Try before you buy",
+      "desc": "No credit card required to try and it is super easy to setup your AI Co-Pilot."
+    }
+  ]
+}

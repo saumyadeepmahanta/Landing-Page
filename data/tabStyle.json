@@ -1,0 +1,138 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "Grade essays, assignments and short answers at scale",
+      "img": "/images/generator-img/chat-export-vedio.png",
+      "menuId": "video-generator",
+      "text": "Academic Assessments",
+      "target": "video-generate",
+      "iconImg": "/images/icons/video-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Automated Grading"
+        },
+        {
+          "text": "Skill Assessment"
+        },
+        {
+          "text": "Learning Effectiveness"
+        },
+        {
+          "text": "Instant Feedback"
+        }
+      ]
+    },
+    {
+      "title": "Build custom & personalized learning modules for each individual ",
+      "img": "/images/generator-img/chat-export-audio.png",
+      "menuId": "audio-generator",
+      "text": "Learning and Development",
+      "target": "audio-generate",
+      "iconImg": "/images/icons/audio-g.png",
+      "isSelect": true,
+      "subItem": [
+        {
+          "text": "Mock Interviews"
+        },
+        {
+          "text": "Skill Assessment"
+        },
+        {
+          "text": "Training Effevtiveness"
+        },
+        {
+          "text": "24/7 Learning Assistant"
+        }
+      ]
+    },
+    {
+      "title": "Hire the best talent. Conduct mass interviews at fraction of a cost",
+      "img": "/images/generator-img/chat-export-photo.png",
+      "menuId": "photo-generator",
+      "text": "Human Resources",
+      "target": "photo-generate",
+      "iconImg": "/images/icons/photo-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Automated AI Interviews"
+        },
+        {
+          "text": "Employee Surveys"
+        },
+        {
+          "text": "Performance Reviews"
+        },
+        {
+          "text": "Sentiment Analysis"
+        }
+      ]
+    },
+    {
+      "title": "Evaluate conversations at scale at lightning speed and 1/10th of cost",
+      "img": "/images/generator-img/chat-export.png",
+      "menuId": "text-generator",
+      "text": "Customer Service",
+      "target": "text-generate",
+      "iconImg": "/images/icons/text-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Agent Performance"
+        },
+        {
+          "text": "Quality Control"
+        },
+        {
+          "text": "Sentiment Analysis"
+        },
+        {
+          "text": "Customer Feedback Analysis"
+        }
+      ]
+    }
+  ],
+  "advanceTab": [
+    {
+      "tabId": "home",
+      "target": "home-tab",
+      "isSelect": true,
+      "menuText": "Customizable",
+      "img": "/images/split/split-1.png",
+      "subTitle": "AI Co-Pilot",
+      "title": "Custom Parameter Setting",
+      "desc": "Define parameters you consider most important for your assessment use case, and implement with the click of a button. "
+    },
+    {
+      "tabId": "profile",
+      "target": "profile-tab",
+      "isSelect": false,
+      "menuText": "Effortless Integration",
+      "img": "/images/split/split-4.png",
+      "subTitle": "API Available",
+      "title": "Get Started in Minutes",
+      "desc": "Generate your secret API key with custom rubrics and seamlessly Integrate with your LMS, CRM, or HR system."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Omni-Channel",
+      "img": "/images/split/split-3.png",
+      "subTitle": "Support All Formats",
+      "title": "Multi-Modal Input",
+      "desc": "Gather responses from candidates, employees, or students via text, audio or video inputs. Analyze received response at scale."
+    },
+    {
+      "tabId": "contact",
+      "target": "contact-tab",
+      "isSelect": false,
+      "menuText": "Data Analytics",
+      "img": "/images/split/split-5.png",
+      "subTitle": "In-Depth Insights",
+      "title": "Real-Time Feedback",
+      "desc": "Pragya processes the inputs in real-time, according to the parameters of the  rubric and publishes instant scores and detailed feedback reports."
+    }
+  ]
+}
